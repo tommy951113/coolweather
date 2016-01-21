@@ -1,4 +1,4 @@
-package app.coolweather.com.coolweather;
+package app.coolweather.com.app;
 
 import org.junit.Test;
 
